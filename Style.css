@@ -1,0 +1,20 @@
+header{background-color: hsl(240, 30%, 68%);
+  color: #fff;
+  font-size: small;
+}
+p{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+ul{
+  list-style-type: none;
+  
+}
+nav{
+  background-color: rgba(123, 234, 0, 0.5;)
+}
+a{
+  text-decoration: none;
+  
+}

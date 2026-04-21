@@ -1,20 +1,27 @@
-header{background-color: hsl(240, 30%, 68%);
-  color: #fff;
-  font-size: small;
+body{
+  background-color: white;
+  font-weight: bold;
+}
+header{
+  background-color: blueviolet;
+  color: #000;
+}
+nav{
+  color: darkblue;
+}
+h2{
+  background-color: mediumvioletred;
+}
+dl{
+  color: darkmagenta;
 }
 p{
   color: black;
-  font-family: 'Times New Roman', Times, serif;
-  
 }
-ul{
-  list-style-type: none;
-  
+dl{
+  color: darkmagenta;
 }
-nav{
-  background-color: rgba(123, 234, 0, 0.5;)
-}
-a{
-  text-decoration: none;
-  
-}
+
+
+
+
